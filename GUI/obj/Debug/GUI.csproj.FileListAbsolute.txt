@@ -1,0 +1,72 @@
+C:\Users\Lucas Giannone\Documents\GitHub\trabalhoander\LocadoraTOP\GUI\bin\Debug\GUI.exe.config
+C:\Users\Lucas Giannone\Documents\GitHub\trabalhoander\LocadoraTOP\GUI\bin\Debug\GUI.exe
+C:\Users\Lucas Giannone\Documents\GitHub\trabalhoander\LocadoraTOP\GUI\bin\Debug\GUI.pdb
+C:\Users\Lucas Giannone\Documents\GitHub\trabalhoander\LocadoraTOP\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\Lucas Giannone\Documents\GitHub\trabalhoander\LocadoraTOP\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\Lucas Giannone\Documents\GitHub\trabalhoander\LocadoraTOP\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Lucas Giannone\Documents\GitHub\trabalhoander\LocadoraTOP\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Lucas Giannone\Documents\GitHub\trabalhoander\LocadoraTOP\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Giannone\Documents\GitHub\trabalhoander\LocadoraTOP\GUI\obj\Debug\GUI.exe
+C:\Users\Lucas Giannone\Documents\GitHub\trabalhoander\LocadoraTOP\GUI\obj\Debug\GUI.pdb
+C:\Users\Lucas Giannone\Documents\GitHub\trabalhoander\LocadoraTOP\GUI\obj\Debug\GUI.frmRegistrarCliente.resources
+C:\Users\Lucas Giannone\Documents\GitHub\trabalhoander\LocadoraTOP\GUI\obj\Debug\GUI.frmRegistrarFuncionario.resources
+C:\Users\Victor da Silva Cano\Documents\TrabalhoAnders\trabalhoander\LocadoraTOP\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\Victor da Silva Cano\Documents\TrabalhoAnders\trabalhoander\LocadoraTOP\GUI\obj\Debug\GUI.exe
+C:\Users\Victor da Silva Cano\Documents\TrabalhoAnders\trabalhoander\LocadoraTOP\GUI\obj\Debug\GUI.pdb
+C:\Users\Victor da Silva Cano\Documents\TrabalhoAnders\trabalhoander\LocadoraTOP\GUI\bin\Debug\GUI.exe.config
+C:\Users\Victor da Silva Cano\Documents\TrabalhoAnders\trabalhoander\LocadoraTOP\GUI\bin\Debug\GUI.exe
+C:\Users\Victor da Silva Cano\Documents\TrabalhoAnders\trabalhoander\LocadoraTOP\GUI\bin\Debug\GUI.pdb
+C:\Users\Victor da Silva Cano\Documents\TrabalhoAnders\trabalhoander\LocadoraTOP\GUI\bin\Debug\DAL.dll
+C:\Users\Victor da Silva Cano\Documents\TrabalhoAnders\trabalhoander\LocadoraTOP\GUI\bin\Debug\Models.dll
+C:\Users\Victor da Silva Cano\Documents\TrabalhoAnders\trabalhoander\LocadoraTOP\GUI\bin\Debug\DAL.pdb
+C:\Users\Victor da Silva Cano\Documents\TrabalhoAnders\trabalhoander\LocadoraTOP\GUI\bin\Debug\Models.pdb
+C:\Users\Victor da Silva Cano\Documents\TrabalhoAnders\trabalhoander\LocadoraTOP\GUI\obj\Debug\GUI.frmCadastroFuncionario.resources
+C:\Users\Victor da Silva Cano\Documents\TrabalhoAnders\trabalhoander\LocadoraTOP\GUI\obj\Debug\GUI.frmCliente.resources
+C:\Users\Victor da Silva Cano\Documents\TrabalhoAnders\trabalhoander\LocadoraTOP\GUI\obj\Debug\GUI.frmCadastrarUsuario.resources
+C:\Users\Victor da Silva Cano\Documents\TrabalhoAnders\trabalhoander\LocadoraTOP\GUI\obj\Debug\GUI.frmItem.resources
+C:\Users\Victor da Silva Cano\Documents\TrabalhoAnders\trabalhoander\LocadoraTOP\GUI\obj\Debug\GUI.frmLogin.resources
+C:\Users\Victor da Silva Cano\Documents\TrabalhoAnders\trabalhoander\LocadoraTOP\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\Victor da Silva Cano\Documents\TrabalhoAnders\trabalhoander\LocadoraTOP\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Victor da Silva Cano\Documents\TrabalhoAnders\trabalhoander\LocadoraTOP\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Victor da Silva Cano\Documents\TrabalhoAnders\trabalhoander\LocadoraTOP\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Victor da Silva Cano\Documents\TrabalhoAnders\trabalhoander\LocadoraTOP\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\luizr\Desktop\TesteTrabalhoAnders\LocadoraTOP\GUI\bin\Debug\GUI.exe.config
+C:\Users\luizr\Desktop\TesteTrabalhoAnders\LocadoraTOP\GUI\bin\Debug\GUI.exe
+C:\Users\luizr\Desktop\TesteTrabalhoAnders\LocadoraTOP\GUI\bin\Debug\GUI.pdb
+C:\Users\luizr\Desktop\TesteTrabalhoAnders\LocadoraTOP\GUI\bin\Debug\DAL.dll
+C:\Users\luizr\Desktop\TesteTrabalhoAnders\LocadoraTOP\GUI\bin\Debug\Models.dll
+C:\Users\luizr\Desktop\TesteTrabalhoAnders\LocadoraTOP\GUI\bin\Debug\DAL.pdb
+C:\Users\luizr\Desktop\TesteTrabalhoAnders\LocadoraTOP\GUI\bin\Debug\Models.pdb
+C:\Users\luizr\Desktop\TesteTrabalhoAnders\LocadoraTOP\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\luizr\Desktop\TesteTrabalhoAnders\LocadoraTOP\GUI\obj\Debug\GUI.frmCadastroFuncionario.resources
+C:\Users\luizr\Desktop\TesteTrabalhoAnders\LocadoraTOP\GUI\obj\Debug\GUI.frmCliente.resources
+C:\Users\luizr\Desktop\TesteTrabalhoAnders\LocadoraTOP\GUI\obj\Debug\GUI.frmCadastrarUsuario.resources
+C:\Users\luizr\Desktop\TesteTrabalhoAnders\LocadoraTOP\GUI\obj\Debug\GUI.frmItem.resources
+C:\Users\luizr\Desktop\TesteTrabalhoAnders\LocadoraTOP\GUI\obj\Debug\GUI.frmLogin.resources
+C:\Users\luizr\Desktop\TesteTrabalhoAnders\LocadoraTOP\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\luizr\Desktop\TesteTrabalhoAnders\LocadoraTOP\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\luizr\Desktop\TesteTrabalhoAnders\LocadoraTOP\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\luizr\Desktop\TesteTrabalhoAnders\LocadoraTOP\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\luizr\Desktop\TesteTrabalhoAnders\LocadoraTOP\GUI\obj\Debug\GUI.exe
+C:\Users\luizr\Desktop\TesteTrabalhoAnders\LocadoraTOP\GUI\obj\Debug\GUI.pdb
+C:\Users\luizr\Desktop\TesteTrabalhoAnders\LocadoraTOP\GUI\obj\Debug\GUI.frmPrincipal.resources
+C:\Users\luizr\Desktop\Meu\LocadoraTOP\GUI\bin\Debug\GUI.exe.config
+C:\Users\luizr\Desktop\Meu\LocadoraTOP\GUI\bin\Debug\GUI.exe
+C:\Users\luizr\Desktop\Meu\LocadoraTOP\GUI\bin\Debug\GUI.pdb
+C:\Users\luizr\Desktop\Meu\LocadoraTOP\GUI\bin\Debug\DAL.dll
+C:\Users\luizr\Desktop\Meu\LocadoraTOP\GUI\bin\Debug\Models.dll
+C:\Users\luizr\Desktop\Meu\LocadoraTOP\GUI\bin\Debug\DAL.pdb
+C:\Users\luizr\Desktop\Meu\LocadoraTOP\GUI\bin\Debug\Models.pdb
+C:\Users\luizr\Desktop\Meu\LocadoraTOP\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\luizr\Desktop\Meu\LocadoraTOP\GUI\obj\Debug\GUI.frmCadastroFuncionario.resources
+C:\Users\luizr\Desktop\Meu\LocadoraTOP\GUI\obj\Debug\GUI.frmCliente.resources
+C:\Users\luizr\Desktop\Meu\LocadoraTOP\GUI\obj\Debug\GUI.frmItem.resources
+C:\Users\luizr\Desktop\Meu\LocadoraTOP\GUI\obj\Debug\GUI.frmLogin.resources
+C:\Users\luizr\Desktop\Meu\LocadoraTOP\GUI\obj\Debug\GUI.frmPrincipal.resources
+C:\Users\luizr\Desktop\Meu\LocadoraTOP\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\luizr\Desktop\Meu\LocadoraTOP\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\luizr\Desktop\Meu\LocadoraTOP\GUI\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\luizr\Desktop\Meu\LocadoraTOP\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\luizr\Desktop\Meu\LocadoraTOP\GUI\obj\Debug\GUI.exe
+C:\Users\luizr\Desktop\Meu\LocadoraTOP\GUI\obj\Debug\GUI.pdb
+C:\Users\luizr\Desktop\Meu\LocadoraTOP\GUI\obj\Debug\GUI.frmPermitirLogin.resources
